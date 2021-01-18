@@ -1,0 +1,723 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMAZONSAT">
+    <display-name lang="pt">AMAZONSAT</display-name>
+  </channel>
+  <channel id="BAND - REDE SAT�LITE">
+    <display-name lang="pt">BAND - REDE SAT�LITE</display-name>
+  </channel>
+  <channel id="Cultura">
+    <display-name lang="pt">Cultura</display-name>
+  </channel>
+  <channel id="TV Gazeta">
+    <display-name lang="pt">TV Gazeta</display-name>
+  </channel>
+  <channel id="Globo Rede">
+    <display-name lang="pt">Globo Rede</display-name>
+  </channel>
+  <channel id="RecordTV S�o Paulo">
+    <display-name lang="pt">RecordTV S�o Paulo</display-name>
+  </channel>
+  <channel id="Rede Brasil - OPERADORAS DTH">
+    <display-name lang="pt">Rede Brasil - OPERADORAS DTH</display-name>
+  </channel>
+  <channel id="Rede Fam�lia">
+    <display-name lang="pt">Rede Fam�lia</display-name>
+  </channel>
+  <channel id="TV UNI�O">
+    <display-name lang="pt">TV UNI�O</display-name>
+  </channel>
+  <channel id="RedeTV! S�o Paulo">
+    <display-name lang="pt">RedeTV! S�o Paulo</display-name>
+  </channel>
+  <channel id="SBT Rede - SAT Anal�gico">
+    <display-name lang="pt">SBT Rede - SAT Anal�gico</display-name>
+  </channel>
+  <channel id="SESC TV">
+    <display-name lang="pt">SESC TV</display-name>
+  </channel>
+  <channel id="TV CEARA">
+    <display-name lang="pt">TV CEARA</display-name>
+  </channel>
+  <channel id="TV DI�RIO FORTALEZA e NATAL">
+    <display-name lang="pt">TV DI�RIO FORTALEZA e NATAL</display-name>
+  </channel>
+  <channel id="TV ESCOLA">
+    <display-name lang="pt">TV ESCOLA</display-name>
+  </channel>
+  <channel id="TV HORIZONTE">
+    <display-name lang="pt">TV HORIZONTE</display-name>
+  </channel>
+  <channel id="TV MEIO NORTE - HD">
+    <display-name lang="pt">TV MEIO NORTE - HD</display-name>
+  </channel>
+  <channel id="UNITV - NET RS">
+    <display-name lang="pt">UNITV - NET RS</display-name>
+  </channel>
+  <channel id="AGRO +">
+    <display-name lang="pt">AGRO +</display-name>
+  </channel>
+  <channel id="AGROCANAL">
+    <display-name lang="pt">AGROCANAL</display-name>
+  </channel>
+  <channel id="Agrobrasil - Campo Grande">
+    <display-name lang="pt">Agrobrasil - Campo Grande</display-name>
+  </channel>
+  <channel id="Canal do Boi">
+    <display-name lang="pt">Canal do Boi</display-name>
+  </channel>
+  <channel id="Canal Rural">
+    <display-name lang="pt">Canal Rural</display-name>
+  </channel>
+  <channel id="CONEX�O  BR">
+    <display-name lang="pt">CONEX�O  BR</display-name>
+  </channel>
+  <channel id="Novo Canal">
+    <display-name lang="pt">Novo Canal</display-name>
+  </channel>
+  <channel id="Terra Viva">
+    <display-name lang="pt">Terra Viva</display-name>
+  </channel>
+  <channel id="TV AMBIENTAL">
+    <display-name lang="pt">TV AMBIENTAL</display-name>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="pt">BABY TV</display-name>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+  </channel>
+  <channel id="Gloob">
+    <display-name lang="pt">Gloob</display-name>
+  </channel>
+  <channel id="GLOOBINHO HD">
+    <display-name lang="pt">GLOOBINHO HD</display-name>
+  </channel>
+  <channel id="NATGEO KIDS">
+    <display-name lang="pt">NATGEO KIDS</display-name>
+  </channel>
+  <channel id="NICK JR.">
+    <display-name lang="pt">NICK JR.</display-name>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+  </channel>
+  <channel id="TOONCAST">
+    <display-name lang="pt">TOONCAST</display-name>
+  </channel>
+  <channel id="TV R� TIM BUM">
+    <display-name lang="pt">TV R� TIM BUM</display-name>
+  </channel>
+  <channel id="Zoomoo">
+    <display-name lang="pt">Zoomoo</display-name>
+  </channel>
+  <channel id="BAND SPORTS">
+    <display-name lang="pt">BAND SPORTS</display-name>
+  </channel>
+  <channel id="PREMIERE COMBATE">
+    <display-name lang="pt">PREMIERE COMBATE</display-name>
+  </channel>
+  <channel id="ESPN International">
+    <display-name lang="pt">ESPN International</display-name>
+  </channel>
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+  </channel>
+  <channel id="ESPN Extra HD">
+    <display-name lang="pt">ESPN Extra HD</display-name>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+  </channel>
+  <channel id="FishTV">
+    <display-name lang="pt">FishTV</display-name>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="pt">Fox Sports</display-name>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="pt">Fox Sports 2</display-name>
+  </channel>
+  <channel id="OFF HD">
+    <display-name lang="pt">OFF HD</display-name>
+  </channel>
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+  </channel>
+  <channel id="SporTV 2">
+    <display-name lang="pt">SporTV 2</display-name>
+  </channel>
+  <channel id="SporTV 3">
+    <display-name lang="pt">SporTV 3</display-name>
+  </channel>
+  <channel id="THE GOLF CHANNEL">
+    <display-name lang="pt">THE GOLF CHANNEL</display-name>
+  </channel>
+  <channel id="Woohoo">
+    <display-name lang="pt">Woohoo</display-name>
+  </channel>
+  <channel id="CONMEBOL TV 4">
+    <display-name lang="pt">CONMEBOL TV 4</display-name>
+  </channel>
+  <channel id="CONMEBOL TV 1">
+    <display-name lang="pt">CONMEBOL TV 1</display-name>
+  </channel>
+  <channel id="CONMEBOL TV 2">
+    <display-name lang="pt">CONMEBOL TV 2</display-name>
+  </channel>
+  <channel id="PFC 10  TTD">
+    <display-name lang="pt">PFC 10  TTD</display-name>
+  </channel>
+  <channel id="PREMIERE CLUBES - MNLA">
+    <display-name lang="pt">PREMIERE CLUBES - MNLA</display-name>
+  </channel>
+  <channel id="PFC 7  TTD">
+    <display-name lang="pt">PFC 7  TTD</display-name>
+  </channel>
+  <channel id="ALTERNATIVO SPO TTD">
+    <display-name lang="pt">ALTERNATIVO SPO TTD</display-name>
+  </channel>
+  <channel id="PFC 2  TTD">
+    <display-name lang="pt">PFC 2  TTD</display-name>
+  </channel>
+  <channel id="PFC 8  TTD">
+    <display-name lang="pt">PFC 8  TTD</display-name>
+  </channel>
+  <channel id="ALTERNATIVO SP2 TTD">
+    <display-name lang="pt">ALTERNATIVO SP2 TTD</display-name>
+  </channel>
+  <channel id="PFC 4  TTD">
+    <display-name lang="pt">PFC 4  TTD</display-name>
+  </channel>
+  <channel id="PFC 9  TTD">
+    <display-name lang="pt">PFC 9  TTD</display-name>
+  </channel>
+  <channel id="PFC 6  TTD">
+    <display-name lang="pt">PFC 6  TTD</display-name>
+  </channel>
+  <channel id="PREMIERE CLUBES HD - MNLA - 868">
+    <display-name lang="pt">PREMIERE CLUBES HD - MNLA - 868</display-name>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">Canal Brasil</display-name>
+  </channel>
+  <channel id="Cine Brasil TV">
+    <display-name lang="pt">Cine Brasil TV</display-name>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+  </channel>
+  <channel id="COMBOCINE">
+    <display-name lang="pt">COMBOCINE</display-name>
+  </channel>
+  <channel id="Curta!">
+    <display-name lang="pt">Curta!</display-name>
+  </channel>
+  <channel id="EUROCHANNEL">
+    <display-name lang="pt">EUROCHANNEL</display-name>
+  </channel>
+  <channel id="Film &amp; Arts HD">
+    <display-name lang="pt">Film &amp; Arts HD</display-name>
+  </channel>
+  <channel id="I-SAT">
+    <display-name lang="pt">I-SAT</display-name>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+  </channel>
+  <channel id="Paramount Network">
+    <display-name lang="pt">Paramount Network</display-name>
+  </channel>
+  <channel id="Prime Box Brazil">
+    <display-name lang="pt">Prime Box Brazil</display-name>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+  </channel>
+  <channel id="HBO Mundi">
+    <display-name lang="pt">HBO Mundi</display-name>
+  </channel>
+  <channel id="HBO PLUS">
+    <display-name lang="pt">HBO PLUS</display-name>
+  </channel>
+  <channel id="HBO Pop HD">
+    <display-name lang="pt">HBO Pop HD</display-name>
+  </channel>
+  <channel id="HBO SIGNATURE">
+    <display-name lang="pt">HBO SIGNATURE</display-name>
+  </channel>
+  <channel id="HBO Xtreme">
+    <display-name lang="pt">HBO Xtreme</display-name>
+  </channel>
+  <channel id="TC Action">
+    <display-name lang="pt">TC Action</display-name>
+  </channel>
+  <channel id="TC Cult">
+    <display-name lang="pt">TC Cult</display-name>
+  </channel>
+  <channel id="TC Fun">
+    <display-name lang="pt">TC Fun</display-name>
+  </channel>
+  <channel id="TC Pipoca">
+    <display-name lang="pt">TC Pipoca</display-name>
+  </channel>
+  <channel id="TC Premium">
+    <display-name lang="pt">TC Premium</display-name>
+  </channel>
+  <channel id="TC Touch">
+    <display-name lang="pt">TC Touch</display-name>
+  </channel>
+  <channel id="A&amp;E/Arts and Entertainment">
+    <display-name lang="pt">A&amp;E/Arts and Entertainment</display-name>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="pt">Fox</display-name>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="pt">Fox Life</display-name>
+  </channel>
+  <channel id="Fox Premium">
+    <display-name lang="pt">Fox Premium</display-name>
+  </channel>
+  <channel id="Fox Premium 2">
+    <display-name lang="pt">Fox Premium 2</display-name>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+  </channel>
+  <channel id="ID - Investiga��o Discovery">
+    <display-name lang="pt">ID - Investiga��o Discovery</display-name>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="pt">Lifetime</display-name>
+  </channel>
+  <channel id="Mais Globosat HD">
+    <display-name lang="pt">Mais Globosat HD</display-name>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">Sony</display-name>
+  </channel>
+  <channel id="Space">
+    <display-name lang="pt">Space</display-name>
+  </channel>
+  <channel id="SyFy">
+    <display-name lang="pt">SyFy</display-name>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+  </channel>
+  <channel id="TNT S�ries">
+    <display-name lang="pt">TNT S�ries</display-name>
+  </channel>
+  <channel id="UNIVERSAL TV">
+    <display-name lang="pt">UNIVERSAL TV</display-name>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="pt">Warner Channel</display-name>
+  </channel>
+  <channel id="CHEF TV">
+    <display-name lang="pt">CHEF TV</display-name>
+  </channel>
+  <channel id="Discovery H&amp;H">
+    <display-name lang="pt">Discovery H&amp;H</display-name>
+  </channel>
+  <channel id="DOG TV HD">
+    <display-name lang="pt">DOG TV HD</display-name>
+  </channel>
+  <channel id="E!">
+    <display-name lang="pt">E!</display-name>
+  </channel>
+  <channel id="Fashion TV Brasil">
+    <display-name lang="pt">Fashion TV Brasil</display-name>
+  </channel>
+  <channel id="Food Network HD">
+    <display-name lang="pt">Food Network HD</display-name>
+  </channel>
+  <channel id="GNT">
+    <display-name lang="pt">GNT</display-name>
+  </channel>
+  <channel id="DISCOVERY HGTV">
+    <display-name lang="pt">DISCOVERY HGTV</display-name>
+  </channel>
+  <channel id="CANAL DE LAS ESTRELLAS">
+    <display-name lang="pt">CANAL DE LAS ESTRELLAS</display-name>
+  </channel>
+  <channel id="Like HD">
+    <display-name lang="pt">Like HD</display-name>
+  </channel>
+  <channel id="CASA CLUB TV">
+    <display-name lang="pt">CASA CLUB TV</display-name>
+  </channel>
+  <channel id="Shoptime">
+    <display-name lang="pt">Shoptime</display-name>
+  </channel>
+  <channel id="Discovery TLC">
+    <display-name lang="pt">Discovery TLC</display-name>
+  </channel>
+  <channel id="Travel Box Brasil HD">
+    <display-name lang="pt">Travel Box Brasil HD</display-name>
+  </channel>
+  <channel id="TRU TV">
+    <display-name lang="pt">TRU TV</display-name>
+  </channel>
+  <channel id="Play TV - TV WA">
+    <display-name lang="pt">Play TV - TV WA</display-name>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="pt">Viva</display-name>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+  </channel>
+  <channel id="CONCERT CHANNEL">
+    <display-name lang="pt">CONCERT CHANNEL</display-name>
+  </channel>
+  <channel id="M1 STATION">
+    <display-name lang="pt">M1 STATION</display-name>
+  </channel>
+  <channel id="MTV - VIACOM">
+    <display-name lang="pt">MTV - VIACOM</display-name>
+  </channel>
+  <channel id="MTV LIVE HD">
+    <display-name lang="pt">MTV LIVE HD</display-name>
+  </channel>
+  <channel id="MULTISHOW">
+    <display-name lang="pt">MULTISHOW</display-name>
+  </channel>
+  <channel id="Music Box Brasil">
+    <display-name lang="pt">Music Box Brasil</display-name>
+  </channel>
+  <channel id="REDE CBS">
+    <display-name lang="pt">REDE CBS</display-name>
+  </channel>
+  <channel id="TRACE BRAZUCA">
+    <display-name lang="pt">TRACE BRAZUCA</display-name>
+  </channel>
+  <channel id="VH1 HD">
+    <display-name lang="pt">VH1 HD</display-name>
+  </channel>
+  <channel id="VH1 Mega Hits">
+    <display-name lang="pt">VH1 Mega Hits</display-name>
+  </channel>
+  <channel id="YEEAH! TV">
+    <display-name lang="pt">YEEAH! TV</display-name>
+  </channel>
+  <channel id="98 Live">
+    <display-name lang="pt">98 Live</display-name>
+  </channel>
+  <channel id="R�dio Atlantida FM">
+    <display-name lang="pt">R�dio Atlantida FM</display-name>
+  </channel>
+  <channel id="Radio Band News">
+    <display-name lang="pt">Radio Band News</display-name>
+  </channel>
+  <channel id="R�dio Can��o Nova AM EMBRATEL">
+    <display-name lang="pt">R�dio Can��o Nova AM EMBRATEL</display-name>
+  </channel>
+  <channel id="R�DIO CBN BH">
+    <display-name lang="pt">R�DIO CBN BH</display-name>
+  </channel>
+  <channel id="R�dio CBN Bras�lia">
+    <display-name lang="pt">R�dio CBN Bras�lia</display-name>
+  </channel>
+  <channel id="R�DIO CBN RJ">
+    <display-name lang="pt">R�DIO CBN RJ</display-name>
+  </channel>
+  <channel id="R�DIO CBN SP">
+    <display-name lang="pt">R�DIO CBN SP</display-name>
+  </channel>
+  <channel id="R�dio Classic Pan">
+    <display-name lang="pt">R�dio Classic Pan</display-name>
+  </channel>
+  <channel id="R�dio Cultura Brasil">
+    <display-name lang="pt">R�dio Cultura Brasil</display-name>
+  </channel>
+  <channel id="R�dio Cultura FM (EMBRATEL)">
+    <display-name lang="pt">R�dio Cultura FM (EMBRATEL)</display-name>
+  </channel>
+  <channel id="R�DIO ELDORADO AM - EMBRATEL">
+    <display-name lang="pt">R�DIO ELDORADO AM - EMBRATEL</display-name>
+  </channel>
+  <channel id="R�dio Eldorado FM">
+    <display-name lang="pt">R�dio Eldorado FM</display-name>
+  </channel>
+  <channel id="R�dio Ga�cha FM">
+    <display-name lang="pt">R�dio Ga�cha FM</display-name>
+  </channel>
+  <channel id="R�dio Itatiaia AM/FM">
+    <display-name lang="pt">R�dio Itatiaia AM/FM</display-name>
+  </channel>
+  <channel id="R�dio Jovem Pan AM EMBRATEL">
+    <display-name lang="pt">R�dio Jovem Pan AM EMBRATEL</display-name>
+  </channel>
+  <channel id="R�DIO JOVEM PAN FM - EMBRATEL">
+    <display-name lang="pt">R�DIO JOVEM PAN FM - EMBRATEL</display-name>
+  </channel>
+  <channel id="R�dio Mix">
+    <display-name lang="pt">R�dio Mix</display-name>
+  </channel>
+  <channel id="R�dio Nativa">
+    <display-name lang="pt">R�dio Nativa</display-name>
+  </channel>
+  <channel id="R�DIO BANDEIRANTES FM">
+    <display-name lang="pt">R�DIO BANDEIRANTES FM</display-name>
+  </channel>
+  <channel id="RADIO GRENAL">
+    <display-name lang="pt">RADIO GRENAL</display-name>
+  </channel>
+  <channel id="SUPER R�DIO TUPI FM">
+    <display-name lang="pt">SUPER R�DIO TUPI FM</display-name>
+  </channel>
+  <channel id="TV Aljazeera Arabic">
+    <display-name lang="pt">TV Aljazeera Arabic</display-name>
+  </channel>
+  <channel id="TV Aljazeera America">
+    <display-name lang="pt">TV Aljazeera America</display-name>
+  </channel>
+  <channel id="BAND NEWS">
+    <display-name lang="pt">BAND NEWS</display-name>
+  </channel>
+  <channel id="BBC WORLD">
+    <display-name lang="pt">BBC WORLD</display-name>
+  </channel>
+  <channel id="BH NEWS">
+    <display-name lang="pt">BH NEWS</display-name>
+  </channel>
+  <channel id="CANAL 26">
+    <display-name lang="pt">CANAL 26</display-name>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="pt">CGTN</display-name>
+  </channel>
+  <channel id="CCTV 4">
+    <display-name lang="pt">CCTV 4</display-name>
+  </channel>
+  <channel id="CNN INTERNATIONAL">
+    <display-name lang="pt">CNN INTERNATIONAL</display-name>
+  </channel>
+  <channel id="CNN Brasil">
+    <display-name lang="pt">CNN Brasil</display-name>
+  </channel>
+  <channel id="CNN ESPA�OL">
+    <display-name lang="pt">CNN ESPA�OL</display-name>
+  </channel>
+  <channel id="EURONEWS">
+    <display-name lang="pt">EURONEWS</display-name>
+  </channel>
+  <channel id="Fox News">
+    <display-name lang="pt">Fox News</display-name>
+  </channel>
+  <channel id="France 24">
+    <display-name lang="pt">France 24</display-name>
+  </channel>
+  <channel id="Globo News">
+    <display-name lang="pt">Globo News</display-name>
+  </channel>
+  <channel id="GV NEWS">
+    <display-name lang="pt">GV NEWS</display-name>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+  </channel>
+  <channel id="Russian Today HD">
+    <display-name lang="pt">Russian Today HD</display-name>
+  </channel>
+  <channel id="Russian Today Espa�ol">
+    <display-name lang="pt">Russian Today Espa�ol</display-name>
+  </channel>
+  <channel id="TV MOGI NEWS">
+    <display-name lang="pt">TV MOGI NEWS</display-name>
+  </channel>
+  <channel id="YTN WORLD NEWS">
+    <display-name lang="pt">YTN WORLD NEWS</display-name>
+  </channel>
+  <channel id="ANIMAL PLANET">
+    <display-name lang="pt">ANIMAL PLANET</display-name>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="pt">Discovery Civilization</display-name>
+  </channel>
+  <channel id="Discovery Theater HD">
+    <display-name lang="pt">Discovery Theater HD</display-name>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="pt">Discovery Science</display-name>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+  </channel>
+  <channel id="Discovery World HD">
+    <display-name lang="pt">Discovery World HD</display-name>
+  </channel>
+  <channel id="Futura">
+    <display-name lang="pt">Futura</display-name>
+  </channel>
+  <channel id="History">
+    <display-name lang="pt">History</display-name>
+  </channel>
+  <channel id="History 2 HD / H2 HD">
+    <display-name lang="pt">History 2 HD / H2 HD</display-name>
+  </channel>
+  <channel id="Love Nature HD">
+    <display-name lang="pt">Love Nature HD</display-name>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="pt">National Geographic</display-name>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="pt">Nat Geo Wild HD</display-name>
+  </channel>
+  <channel id="Smithsonian HD">
+    <display-name lang="pt">Smithsonian HD</display-name>
+  </channel>
+  <channel id="ARIRANG TV">
+    <display-name lang="pt">ARIRANG TV</display-name>
+  </channel>
+  <channel id="BYU">
+    <display-name lang="pt">BYU</display-name>
+  </channel>
+  <channel id="Deutsche Welle">
+    <display-name lang="pt">Deutsche Welle</display-name>
+  </channel>
+  <channel id="KBS AM�RICA">
+    <display-name lang="pt">KBS AM�RICA</display-name>
+  </channel>
+  <channel id="NHK NEWS">
+    <display-name lang="pt">NHK NEWS</display-name>
+  </channel>
+  <channel id="NHK WORLD HD (Parab�lica)">
+    <display-name lang="pt">NHK WORLD HD (Parab�lica)</display-name>
+  </channel>
+  <channel id="RAI">
+    <display-name lang="pt">RAI</display-name>
+  </channel>
+  <channel id="RTP INTERNACIONAL">
+    <display-name lang="pt">RTP INTERNACIONAL</display-name>
+  </channel>
+  <channel id="SIC Internacional">
+    <display-name lang="pt">SIC Internacional</display-name>
+  </channel>
+  <channel id="TELEFE">
+    <display-name lang="pt">TELEFE</display-name>
+  </channel>
+  <channel id="TELESUR - TELEFONICA">
+    <display-name lang="pt">TELESUR - TELEFONICA</display-name>
+  </channel>
+  <channel id="TV ESPANHA">
+    <display-name lang="pt">TV ESPANHA</display-name>
+  </channel>
+  <channel id="TV COR�IA">
+    <display-name lang="pt">TV COR�IA</display-name>
+  </channel>
+  <channel id="TV PUBLICA ARGENTINA">
+    <display-name lang="pt">TV PUBLICA ARGENTINA</display-name>
+  </channel>
+  <channel id="TV5">
+    <display-name lang="pt">TV5</display-name>
+  </channel>
+  <channel id="WORLDNET">
+    <display-name lang="pt">WORLDNET</display-name>
+  </channel>
+  <channel id="REDE BOA VONTADE">
+    <display-name lang="pt">REDE BOA VONTADE</display-name>
+  </channel>
+  <channel id="REDE BOAS NOVAS - NET MANAUS">
+    <display-name lang="pt">REDE BOAS NOVAS - NET MANAUS</display-name>
+  </channel>
+  <channel id="CANAL SA�DE">
+    <display-name lang="pt">CANAL SA�DE</display-name>
+  </channel>
+  <channel id="CNT REDE">
+    <display-name lang="pt">CNT REDE</display-name>
+  </channel>
+  <channel id="Ideal TV">
+    <display-name lang="pt">Ideal TV</display-name>
+  </channel>
+  <channel id="RBI - (MIX TV)">
+    <display-name lang="pt">RBI - (MIX TV)</display-name>
+  </channel>
+  <channel id="Canal 21">
+    <display-name lang="pt">Canal 21</display-name>
+  </channel>
+  <channel id="Rede Gospel">
+    <display-name lang="pt">Rede Gospel</display-name>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name lang="pt">Rede Vida</display-name>
+  </channel>
+  <channel id="RIT TV">
+    <display-name lang="pt">RIT TV</display-name>
+  </channel>
+  <channel id="TV APARECIDA">
+    <display-name lang="pt">TV APARECIDA</display-name>
+  </channel>
+  <channel id="TV Brasil">
+    <display-name lang="pt">TV Brasil</display-name>
+  </channel>
+  <channel id="TV Brasil 2">
+    <display-name lang="pt">TV Brasil 2</display-name>
+  </channel>
+  <channel id="TV C�mara Nacional">
+    <display-name lang="pt">TV C�mara Nacional</display-name>
+  </channel>
+  <channel id="Can��o Nova">
+    <display-name lang="pt">Can��o Nova</display-name>
+  </channel>
+  <channel id="Canal Comunit - TV Aberta">
+    <display-name lang="pt">Canal Comunit - TV Aberta</display-name>
+  </channel>
+  <channel id="TV JUSTI�A">
+    <display-name lang="pt">TV JUSTI�A</display-name>
+  </channel>
+  <channel id="TV PONTO JUS">
+    <display-name lang="pt">TV PONTO JUS</display-name>
+  </channel>
+  <channel id="TV SENADO">
+    <display-name lang="pt">TV SENADO</display-name>
+  </channel>
+</tv>
